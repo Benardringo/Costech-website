@@ -100,7 +100,7 @@ section {
 
 .section-header {
   text-align: center;
-  padding-bottom: 60px;
+  padding-bottom: 10px;
 }
 .section-header-top{
   padding-bottom: 20px;
@@ -417,7 +417,8 @@ section {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #524005;
+  color: #ffff;
+  margin-top: -5px;
 }
 
 /* .navbar .getstarted,
